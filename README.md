@@ -2,7 +2,7 @@
 
 Este proyecto implementa un sistema de **Visión Artificial** capaz de analizar vídeos de partidas de ajedrez en tiempo real y generar automáticamente la narración de la partida (formato PGN).
 
-![Demo](AQUÍ_PUEDES_PONER_UN_GIF_O_IMAGEN_DE_TU_PROYECTO.png)
+![Demo](<img width="1980" height="1179" alt="Captura de pantalla 2026-02-10 014812" src="https://github.com/user-attachments/assets/ac7196f4-cdb5-47f4-8be1-90d20c26388a" />)
 
 ## 🚀 Características
 * **Detección Robusta:** Uso de **YOLOv8** entrenado con Data Augmentation (HSV) para invarianza al color.
@@ -23,7 +23,7 @@ Puedes consultar los detalles técnicos del proyecto aquí:
 
 ## 🎥 Demo
 Puedes ver el funcionamiento del sistema en el siguiente vídeo:
-[Enlace al vídeo en YouTube o Drive si pesa mucho](LINK_AL_VIDEO)
+[Enlace al vídeo](https://github.com/user-attachments/assets/85245a31-8d8e-4c42-a3aa-a86e7a532c84)
 
 ---
 *Autor: Raúl Sánchez Ibáñez - 2026*
