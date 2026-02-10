@@ -18,8 +18,8 @@ Este proyecto implementa un sistema de **Visión Artificial** capaz de analizar 
 
 ## 📄 Documentación
 Puedes consultar los detalles técnicos del proyecto aquí:
-* [📄 Memoria Técnica del Proyecto (PDF)](./NOMBRE_DE_TU_ARCHIVO_MEMORIA.pdf)
-* [📊 Presentación de Defensa (PDF)](./NOMBRE_DE_TU_ARCHIVO_PRESENTACION.pdf)
+* [📄 Memoria Técnica del Proyecto (PDF)](./Memoria.pdf)
+* [📊 Presentación de Defensa (PDF)](./PresentaciónAIVA.pdf)
 
 ## 🎥 Demo
 Puedes ver el funcionamiento del sistema en el siguiente vídeo:
